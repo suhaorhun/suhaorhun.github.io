@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Suha Orhun Mutluergil"
-  avatar           : "pp.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "pp.png"
+  bio              : "Instructor at Sabanci University"
+  location         : "Istanbul"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
