@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an instructor in the [Computer Science and Engineering](https://cs.sabanciuniv.edu/) department.
+I am an instructor in the [Computer Science and Engineering](https://cs.sabanciuniv.edu/) department at [Faculty of Engineering and Natural Sciences](https://fens.sabanciuniv.edu/en/), [Sabanci University](https://www.sabanciuniv.edu/en/).
 
 Announcements
-======
-Big things come here.
+-----
+I am always looking for talented masters and undergraduate students enthusiastic about formal methods, software verification, deductive reasoning, foundations of concurrent programming and theoretical aspects of blockchain platforms.
 
 News
-------
-We need to implement bullets here.
+-----
+aa|bb
+--- | ---
+ee | ff
 
-**Last Point**
-
-Maybe the last thing.
 
 
