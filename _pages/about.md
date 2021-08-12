@@ -16,7 +16,7 @@ I am always looking for talented masters and undergraduate students enthusiastic
 
 News
 -----
-aa|bb
+aa | bb
 --- | ---
 ee | ff
 
