@@ -16,9 +16,7 @@ I am always looking for talented masters and undergraduate students enthusiastic
 
 News
 -----
-aa | bb
---- | ---
-ee | ff
++ **(Oct '20)** I am excited to start working at Sabanci University as an instructor. 
 
 
 
