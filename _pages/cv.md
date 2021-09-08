@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science and Engineering, Sabanci University, Istanbul, TURKEY, 2010
+  _Thesis:_ Verification of Concurrent Programs via Refinement Proofs
+  _Advisor:_ [Serdar Tasiran](https://www.amazon.jobs/en/pioneers/serdar-t)
+* M.Sc. in Computer Science and Engineering, Sabanci University, Istanbul, TURKEY, 2012
+* Ph.D. in Computer Science and Engineering, Koc University, Istanbul, TURKEY, 2018
 
 Work experience
 ======
