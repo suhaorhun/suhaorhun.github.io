@@ -18,5 +18,5 @@ I am always looking for talented masters and undergraduate students enthusiastic
 
 News
 -----
-+ **(Sep '21)** I am extremely happy and excited for being a recipient of [ARA Spring 21](https://www.amazon.science/research-awards/program-updates/spring-2021-amazon-research-awards-recipients-announced) awards.
++ **(Sep '21)** I am extremely happy and excited for being an [Amazon Research Awards](https://www.amazon.science/research-awards/program-updates/spring-2021-amazon-research-awards-recipients-announced) recipient.
 + **(Oct '20)** I am excited to start working at Sabanci University as an instructor. 
