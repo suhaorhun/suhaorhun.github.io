@@ -20,7 +20,7 @@ _Thesis:_ Verification of Concurrent Programs via Refinement Proofs
 _Advisor:_ [Serdar Tasiran](https://www.amazon.jobs/en/pioneers/serdar-t)  
 _Co-Advisor:_ [Constantin Enea](https://www.irif.fr/~cenea/)
 
-Work experience
+Work Experience
 -----
 * October 2020 - Now: Instructor  
 [Sabanci University](https://www.sabanciuniv.edu/en/), Istanbul, TURKEY
