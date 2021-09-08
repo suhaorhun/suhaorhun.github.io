@@ -12,10 +12,13 @@ redirect_from:
 Education
 ======
 * B.Sc. in Computer Science and Engineering, Sabanci University, Istanbul, TURKEY, 2010
-  _Thesis:_ Verification of Concurrent Programs via Refinement Proofs
-  _Advisor:_ [Serdar Tasiran](https://www.amazon.jobs/en/pioneers/serdar-t)
-* M.Sc. in Computer Science and Engineering, Sabanci University, Istanbul, TURKEY, 2012
-* Ph.D. in Computer Science and Engineering, Koc University, Istanbul, TURKEY, 2018
+* M.Sc. in Computer Science and Engineering, Sabanci University, Istanbul, TURKEY, 2012  
+_Thesis:_ Applications of Heuristic Search on Phylogeny Reconstruction Problems  
+_Advisor:_ [Esra Erdem](http://people.sabanciuniv.edu/esraerdem/)
+* Ph.D. in Computer Science and Engineering, Koc University, Istanbul, TURKEY, 2018  
+_Thesis:_ Verification of Concurrent Programs via Refinement Proofs
+_Advisor:_ [Serdar Tasiran](https://www.amazon.jobs/en/pioneers/serdar-t)
+_Co-Advisor:_ [Constantin Enea](https://www.irif.fr/~cenea/)
 
 Work experience
 ======
