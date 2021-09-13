@@ -13,7 +13,7 @@ Work Experience
 -----
 * October 2020 - Now: Instructor  
 [Sabanci University](https://www.sabanciuniv.edu/en/), Istanbul, TURKEY
-* September 2018 - September 2020: Postdoctoral Researcher
+* September 2018 - September 2020: Postdoctoral Researcher  
 [IRIF](https://www.irif.fr/), [Universite de Paris](https://u-paris.fr/en/), Paris, FRANCE
 
 Education
