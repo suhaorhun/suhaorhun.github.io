@@ -50,7 +50,7 @@ Honors and Awards
 _Project Title:_ Linearizability Checking via Symbolic Reasoning
 * **Fall '17** HIPEAC Collaboration Grant for the IRIF Lab visit
 * **May '16** Best paper award in _NETYS '16_ conference  
-_Paper Title:_ A Mechanized Proof of the Chase-Lev Deque Using a Proof System
+_Paper Title:_ A Mechanized Proof of the Chase-Lev Deque Using a Proof System [(link)](http://www.suhamutluergil.com/publication/2016-01-netys) 
 * **2012** TUBITAK-BIDEB (Turkish NSF) scholarship: Covers monthly stipend for PhD studies
 * **2010** TUBITAK-BIDEB (Turkish NSF) scholarship: Covers monthly stipend for MSc studies
 
